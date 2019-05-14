@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  h2:
+    console:
+      enabled: true
+
+key:
+  space: 106
+
+message:
+  space: 500
+
+dictionary:
+  length: 70
+
+charset:
+  length: 27
+
+space:
+  value: 26
+  frequency: 19
+
+alphabet:
+  length: 26
+
